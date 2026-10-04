@@ -1,5 +1,8 @@
 @import "https://fonts.googleapis.com/css?family=Open+Sans";
 
+a:active {
+    color: #yourColor;
+}
 .floating-form {
     background-color: #ffffff;
     border: 1px solid #ddd;
