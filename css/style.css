@@ -127,7 +127,7 @@ body {
 
 .bs-calltoaction.bs-calltoaction-warning{
     color: #fff;
-    background-color: #3bb974;
+    background-color: #3bb970;
     border-color: #fae064;
 }
 
@@ -161,7 +161,7 @@ a {
 	transition:all .35s;
 }
 a:hover,a:focus {
-	color:#eb3812;
+	color:#3bb970;
 }
 
 p {
