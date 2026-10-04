@@ -115,25 +115,25 @@ body {
 
 .bs-calltoaction.bs-calltoaction-info{
     color: #fff;
-    background-color: #a1d260;
+    background-color: #90EE90;
     border-color: #a1d260;
 }
 
 .bs-calltoaction.bs-calltoaction-success{
     color: #fff;
-    background-color: #5cb85c;
+    background-color: #32CD32;
     border-color: #4cae4c;
 }
 
 .bs-calltoaction.bs-calltoaction-warning{
     color: #fff;
-    background-color: #3bb970;
+    background-color: #228B22;
     border-color: #fae064;
 }
 
 .bs-calltoaction.bs-calltoaction-danger{
     color: #fff;
-    background-color: #3bb970;
+    background-color: #006400;
     border-color: #f28e96;
 }
 
